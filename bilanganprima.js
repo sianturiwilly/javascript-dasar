@@ -14,10 +14,11 @@ function checkPrima(angka){
     }
 }
 
-// Bilangan Prima : Faktor hanya 2 faktor
-// 5: 1,5
-// 7: 1,7
-// 10: 1,2,5,10
+// Bilangan Prima : Bilangan yang memiliki 2 faktor.
+// Contoh:
+// 5: 1, 5
+// 7: 1, 7
+// 10: 1, 2, 5, 10
 
 // Flag
 // 5 % 1 = 0
@@ -25,4 +26,4 @@ function checkPrima(angka){
 
 // Hasil
 console.log(checkPrima(5)); // True
-console.log(checkPrima(10)); // Prima
+console.log(checkPrima(10)); // False

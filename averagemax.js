@@ -1,3 +1,9 @@
+// Studi Kasus Mencari Rata-rata Terbesar
+// Prajudi William Chrisdeardo
+// Willi
+// Sabtu, 3 September 2022
+// Full Stack JavaScript Web Developer Tingkat Pemula
+
 function findAverageMax(arr2D){
     // Kode disini
     var result = [];
